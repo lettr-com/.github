@@ -6,8 +6,8 @@ Send transactional emails with a clean REST API, drag-and-drop template editor, 
 
 | Language | Package |
 |----------|---------|
-| **PHP** | [`lettr/lettr-php`](https://github.com/lettr-com/lettr-php) |
-| **Laravel** | [`lettr/lettr-laravel`](https://github.com/lettr-com/lettr-laravel) |
+| **PHP** | [`lettr-php`](https://github.com/lettr-com/lettr-php) |
+| **Laravel** | [`lettr-laravel`](https://github.com/lettr-com/lettr-laravel) |
 | **Node.js** | [`lettr-node`](https://github.com/lettr-com/lettr-node) |
 | **Python** | [`lettr-python`](https://github.com/lettr-com/lettr-python) |
 | **Go** | [`lettr-go`](https://github.com/lettr-com/lettr-go) |
