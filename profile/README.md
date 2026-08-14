@@ -20,7 +20,6 @@ Send transactional emails with a clean REST API, drag-and-drop template editor, 
 - **[n8n Node](https://github.com/lettr-com/lettr-n8n)** — Send emails in your n8n workflows
 - **[MCP Server](https://github.com/lettr-com/lettr-mcp)** — Use Lettr from Claude, Cursor, and other AI agents
 - **[Agent Skills](https://github.com/lettr-com/lettr-skills)** — Migrate providers and send emails from AI coding agents
-- **[Cursor Plugin](https://github.com/lettr-com/lettr-cursor-plugin)** — Lettr integration for Cursor IDE
 
 ### Links
 
