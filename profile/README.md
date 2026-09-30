@@ -18,7 +18,7 @@ Send transactional emails with a clean REST API, drag-and-drop template editor, 
 
 - **[WordPress Plugin](https://github.com/lettr-com/lettr-wordpress)** — Drop-in replacement for wp_mail
 - **[n8n Node](https://github.com/lettr-com/lettr-n8n)** — Send emails in your n8n workflows
-- **[MCP Server](https://github.com/lettr-com/lettr-mcp)** — Use Lettr from Claude, Cursor, and other AI agents
+- **[MCP Server](https://docs.lettr.com/learn/mcp/introduction)** — Use Lettr from Claude, Cursor, and other AI agents. Hosted at `app.lettr.com/mcp`, with OAuth or an API key
 - **[Agent Skills](https://github.com/lettr-com/lettr-skills)** — Migrate providers and send emails from AI coding agents
 
 ### Links
